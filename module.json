@@ -1,7 +1,7 @@
 {
   "id": "remnant-content",
   "title": "Remnant Content",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest": "https://github.com/caterplease/remnant/releases/download/Latest/module.json",
   "download" : "https://github.com/caterplease/remnant/releases/download/Latest/remnant-content.zip",
   "compatibility": {
